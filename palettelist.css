@@ -1,0 +1,70 @@
+.headeralign {
+	display: block;
+	margin-left: 602px;
+	width: 50%;
+}
+
+div.align {
+	display: block;
+	margin-left: 710px;
+	margin-right: 30px;
+	width: 50%;
+}
+
+.htalign {
+	position:relative;
+	bottom: 30px;
+	text-align: justify;
+	margin-right: 740px;
+	margin-left: 40px;
+}
+
+.ptalign {
+	position:relative;
+	bottom: 30px;
+	margin-right: 10px;
+	margin-left: 43px;
+	text-align: left;
+}
+
+.ealign {
+	position:relative;
+	bottom: 30px;
+	margin-right: 70px;
+	margin-left: 40px;
+	text-align: left;
+
+}
+
+.language1align {
+	position:relative;
+	bottom: 30px;
+	margin-right: 70px;
+	margin-left: 40px;
+	text-align: left;
+
+}
+.language2align {
+	position:relative;
+	bottom: 30px;
+	margin-right: 70px;
+	margin-left: 40px;
+	text-align: left;
+
+}
+
+.studentidalign {
+	position:relative;
+	bottom: 30px;
+	margin-right: 70px;
+	margin-left: 40px;
+	text-align: left;
+
+} 
+
+#butt {
+    animation: jumping 1s linear infinite;
+    cursor: pointer;
+}
+
+
